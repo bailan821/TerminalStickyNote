@@ -1,1 +1,1 @@
-# Terminal-Sticky-Note-
+# Terminal-StickyNote
